@@ -76,7 +76,8 @@
         "meta_descr": "Commun Lundi accompagne des entreprises toujours plus vivantes vers le partage du pouvoir et des responsabilités, en intelligence collective.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/icone-667x494.jpg"
       },
       "components": [
         {
